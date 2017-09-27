@@ -27,3 +27,7 @@ body {
 .portfolio-item {
     margin-bottom: 30px;
 }
+
+.bg-dark {
+    background-color: #061084!important;
+}
